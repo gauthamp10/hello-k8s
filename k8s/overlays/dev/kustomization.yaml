@@ -1,4 +1,6 @@
 bases:
   - ../../base
 namePrefix: dev-
+resources:
+  - replica-patch.yaml
 
