@@ -5,7 +5,7 @@ metadata:
 data:
   index.html: |
     <html>
-    <head><title><>Hello K8s</title></head>
-    <body><h3>Hello K8s from Minikube!</h3><hr></body>
+    <head><title>Hello K8s</title></head>
+    <body><hr><h2>Hello K8s from Minikube!</h2><hr></body>
     </html>
 
