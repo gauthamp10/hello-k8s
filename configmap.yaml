@@ -6,6 +6,6 @@ data:
   index.html: |
     <html>
     <head><title>Hello K8s</title></head>
-    <body><hr><h2>Hello K8s from Minikube!</h2><hr></body>
+    <body><hr><h2>Hello K8s from Minikube!</h2><hr><hr></body>
     </html>
 
