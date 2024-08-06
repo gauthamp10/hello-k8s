@@ -3,5 +3,5 @@ kind: Deployment
 metadata:
   name: hello-world-deployment
 spec:
-  replicas: 20
+  replicas: 2
 
