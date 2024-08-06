@@ -4,7 +4,7 @@ metadata:
   name: hello-world-dev
   namespace: argocd
 spec:
-  project: default
+  project: hello-world-dev
   source:
     repoURL: 'https://github.com/gauthamp10/hello-k8s.git'
     targetRevision: HEAD
