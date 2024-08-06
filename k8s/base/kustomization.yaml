@@ -3,3 +3,6 @@ resources:
   - service.yaml
   - configmap.yaml
 
+commonLabels:
+  app: hello-world
+
