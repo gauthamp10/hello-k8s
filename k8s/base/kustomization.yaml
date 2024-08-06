@@ -6,3 +6,6 @@ resources:
 commonLabels:
   app: hello-world
 
+configMapGenerator:
+  - name: htmldata
+    env: config.properties

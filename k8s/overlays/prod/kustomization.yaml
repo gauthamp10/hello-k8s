@@ -5,3 +5,7 @@ resources:
 - ../../base
 patches:
 - path: replica-patch.yaml
+
+configMapGenerator:
+  - name: htmldata
+    env: config.properties

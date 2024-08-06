@@ -20,5 +20,5 @@ spec:
       volumes:
       - name: hello-world-html
         configMap:
-          name: hello-world-config
+          name: htmldata
 
