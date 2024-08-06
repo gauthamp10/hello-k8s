@@ -1,6 +1,6 @@
 bases:
   - ../../base
 namePrefix: staging-
-resources:
+patches:
   - replica-patch.yaml
 
